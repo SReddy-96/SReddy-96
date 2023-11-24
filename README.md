@@ -1,4 +1,4 @@
-![github-header-image (4)](https://github.com/SReddy-96/SReddy-96/assets/134017709/689657e5-1f4b-40a5-83c4-1624d0ade8d3)
+
 
 
 <h1 align="center">Hi 👋, I'm Steve</h1>
