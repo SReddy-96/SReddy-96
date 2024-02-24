@@ -1,4 +1,3 @@
-<img src="https://github.com/SReddy-96/SReddy-96/assets/134017709/d330e886-cf66-4eed-a6ef-b20ed23401a8" width="1000">
 
 <h1 align="center">Hi 👋, I'm Steve</h1>
 <h3 align="center">This is a journey from the culinary arts to the realm of web development. As a former chef, I bring a unique perspective and a passion for precision – skills that transcend the kitchen and seamlessly integrate into coding.</h3>
