@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Project Ideas and Career Path**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at **https://steven-reddy.netlify.app/**
 
 - 📫 How to reach me **steveng.reddy@gmail.com**
 
