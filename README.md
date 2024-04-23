@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreddy-96&label=Profile%20views&color=0e75b6&style=flat" alt="sreddy-96" /> </p>
 
-- 🔭 I’m currently working on **A Portfolio**
+- 🔭 I’m currently working on **Collaborative Projects**
 
 - 🌱 I’m currently learning **React, Algorithms, mySQL**
 
-- 👯 I’m looking to collaborate on **JavaScript Applications**
+- 👯 I’m looking to collaborate on **React Applications**
 
-- 🤝 I’m looking for help with **Project Ideas and Career Path**
+- 🤝 I’m looking for help with **Networking and Career Path**
 
 - 👨‍💻 All of my projects are available at **https://steven-reddy.netlify.app/**
 
